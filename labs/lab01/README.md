@@ -1,4 +1,4 @@
-# Lab 1: Reference Architecture 1 - Custom EC2 instance with S3 bucket and IAM policy
+# Lab: Reference Architecture 1 - Custom EC2 instance with S3 bucket and IAM policy
 
 ![Topology Diagram](https://s3.amazonaws.com/uvasds-systems/images/refarch1-diagram.png)
 
